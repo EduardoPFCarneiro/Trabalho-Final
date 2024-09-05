@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -29,9 +30,10 @@ namespace CaixaCrud.Modelo
             funcionario.Id_fun = fun.Id_fun;
         }
 
+
         public override string ToString()
         {
-            return $"========= CAIXA {Id_cai} =========\nid: " + Id_cai + "\nsaldo inicial: " + SaldoInicial_cai + "\nEntradas: " + TotalEntradas_cai + "\nSaidas: " + TotalSaidas_cai + "\nstatus: " + Status_cai + "\nFuncionario: " + funcionario.Nome_fun;
+            return $"========= CAIXA {Id_cai} =========\nid: " + Id_cai + "\nsaldo inicial: " + SaldoInicial_cai + "\nEntradas: " + TotalEntradas_cai + "\nSaidas: " + TotalSaidas_cai + "\nTotal: " + Total_cai+"\nstatus: " + Status_cai +  "\nFuncionario: " + funcionario.Nome_fun ;
         }
     }
 }

@@ -228,8 +228,11 @@ Escolha uma das opções: ");
 
                 List<Caixa> caixa = caixaDao.List();
 
+
+                
                 foreach (Caixa a in caixa)
                 {
+                    a.Total_cai = a.SaldoInicial_cai + a.TotalEntradas_cai - a.TotalSaidas_cai;
                     Console.WriteLine(a.ToString());
                 }
             }

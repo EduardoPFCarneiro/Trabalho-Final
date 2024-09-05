@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\",
+  "WorkspaceRootPath": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\caixacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\caixacrud\\modelo\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\trabalho final\\caixacrud\\modelo\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:modelo\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\caixacrud\\dao\\caixadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:dao\\caixadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\trabalho final\\caixacrud\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\caixacrud\\modelo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\trabalho final\\caixacrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\trabalho final\\caixacrud\\modelo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:modelo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\caixacrud\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|c:\\users\\dugab\\source\\repos\\trabalho final\\caixacrud\\dao\\caixadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E779CF93-E34A-4332-B01F-EBCF80876A7E}|CaixaCrud.csproj|solutionrelative:dao\\caixadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Conexao.cs",
               "RelativeDocumentMoniker": "Conexao.cs",
-              "ToolTip": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Conexao.cs",
+              "ToolTip": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Conexao.cs",
               "RelativeToolTip": "Conexao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,52 +47,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CaixaDAO.cs",
-              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\DAO\\CaixaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\DAO\\CaixaDAO.cs",
               "RelativeDocumentMoniker": "DAO\\CaixaDAO.cs",
-              "ToolTip": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\DAO\\CaixaDAO.cs",
+              "ToolTip": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\DAO\\CaixaDAO.cs",
               "RelativeToolTip": "DAO\\CaixaDAO.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAGkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T21:16:08.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T21:16:08.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Modelo\\Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Modelo\\Funcionario.cs",
               "RelativeDocumentMoniker": "Modelo\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Modelo\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Modelo\\Funcionario.cs",
               "RelativeToolTip": "Modelo\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T21:15:52.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Caixa.cs",
-              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Modelo\\Caixa.cs",
+              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Modelo\\Caixa.cs",
               "RelativeDocumentMoniker": "Modelo\\Caixa.cs",
-              "ToolTip": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Modelo\\Caixa.cs",
+              "ToolTip": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Modelo\\Caixa.cs",
               "RelativeToolTip": "Modelo\\Caixa.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T21:15:37.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAAAMoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAOoAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T21:14:51.652Z",
               "EditorCaption": ""

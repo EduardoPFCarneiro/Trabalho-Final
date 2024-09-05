@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\CaixaCrud.csproj": {}
+    "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\CaixaCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\CaixaCrud.csproj": {
+    "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\CaixaCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\CaixaCrud.csproj",
+        "projectUniqueName": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\CaixaCrud.csproj",
         "projectName": "CaixaCrud",
-        "projectPath": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\CaixaCrud.csproj",
+        "projectPath": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\CaixaCrud.csproj",
         "packagesPath": "C:\\Users\\dugab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\obj\\",
+        "outputPath": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dugab\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RMpZss2pWl0=",
+  "dgSpecHash": "TbA44kXRlh0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dugab\\source\\repos\\CaixaCrud\\CaixaCrud.csproj",
+  "projectFilePath": "C:\\Users\\dugab\\source\\repos\\Trabalho Final\\CaixaCrud\\CaixaCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dugab\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\dugab\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
